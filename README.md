@@ -14,6 +14,6 @@ located in the northeast of Algeria and the Sidi Bel-abbes region located in the
 * 122 instances for each region .
 
 * The Period is from June 2012 to September 2012.The Dataset includes 11 attributes and 1 output attribute
-i.e. Temperature
+i.e. Temperature .
 
 * The data consists of 14 column and 246 rows.
