@@ -1,4 +1,4 @@
-# Algerian Forest Fire Prediction using Logistic Regression Algorithm 
+# Algerian Forest Temperature Prediction using Linear Regression Algorithm 
 # 1) Problem statement .
 * This dataset comprises of Algerian Forest Fire Dataset taken from UCI .
 
