@@ -1,10 +1,10 @@
-# Algerian Forest Temperature Prediction using Linear Regression Algorithm 
+# Algerian Forest Temperature Prediction using Linear Regression Algorithm .
 # 1) Problem statement .
 * This dataset comprises of Algerian Forest Fire Dataset taken from UCI .
 
 * Link of the dataset is as follows :- https://archive.ics.uci.edu/ml/datasets/Algerian+Forest+Fires+Dataset++ .
 
-* This Model Predicts using Linear Regression that what will be the Temperature  in the Algerian Forest on the basis of various given circumstances in the data .
+* This Model Predicts using Linear Regression Algorithm that what will be the Temperature  in the Algerian Forest on the basis of various given circumstances in the data .
 
 
 # 2) Data Collection.
